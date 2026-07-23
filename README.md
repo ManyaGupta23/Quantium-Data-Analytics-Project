@@ -55,9 +55,9 @@ The objective was to analyze customer purchasing behaviour and evaluate the effe
 
 ### Sample Visualizations
 
-![Customer Segment](images/salesbycustomersegment.png)
+![Customer Segment](images/salesbycustomersegment.PNG)
 
-![Top Sales](images/totalsalesbylifestage.png)
+![Top Sales](images/totalsalesbylifestage.PNG)
 
 ---
 
@@ -79,11 +79,11 @@ The objective was to analyze customer purchasing behaviour and evaluate the effe
 
 ### Sample Visualizations
 
-![Store77](images/store77.png)
+![Store77](images/store77.PNG)
 
-![Store86](images/store86.png)
+![Store86](images/store86.PNG)
 
-![Store88](images/store88.png)
+![Store88](images/store88.PNG)
 
 ---
 
@@ -100,18 +100,11 @@ The objective was to analyze customer purchasing behaviour and evaluate the effe
 
 Quantium Data Analytics Virtual Experience Certificate
 
-[📄 View Certificate](certificate/Quantium_Certificate.pdf)
+[📄 View Certificate](certificate/Quantium_certificate.pdf)
 
 Or preview below:
 
-![Certificate](images/quantium_certificate.png)
-
----
-
-
-```
-
----
+![Certificate](images/Quantium_certificate.PNG)
 
 ## 👩‍💻 Author
 
