@@ -1,8 +1,10 @@
 # 📊 Quantium Customer Analytics & Store Trial Analysis
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+[![Python](https://img.shields.io/badge/Python-Task%201-blue)](https://github.com/ManyaGupta23/quantium-customer-analytics/blob/main/Quantium_Task1_Customer_Analytics.ipynb)
+
+[![Pandas](https://img.shields.io/badge/Pandas-Task%202-green)](https://github.com/ManyaGupta23/quantium-customer-analytics/blob/main/Quantium_Task2_Store_Trial_Analysis.ipynb)
+
+[![Status](https://img.shields.io/badge/Project-Task%203%20PPT-brightgreen)](https://github.com/ManyaGupta23/quantium-customer-analytics/blob/main/Quantium_Task3_Strategic_Recommendations.pptx)
 
 ## 📌 Project Overview
 
@@ -55,9 +57,9 @@ The objective was to analyze customer purchasing behaviour and evaluate the effe
 
 ### Sample Visualizations
 
-![Customer Segment](images/salesbycustomersegment.PNG)
+![Customer Segment](salesbycustomersegment.PNG)
 
-![Top Sales](images/totalsalesbylifestage.PNG)
+![Top Sales](totalsalesbylifestage.PNG)
 
 ---
 
@@ -79,11 +81,11 @@ The objective was to analyze customer purchasing behaviour and evaluate the effe
 
 ### Sample Visualizations
 
-![Store77](images/store77.PNG)
+![Store77](store77.PNG)
 
-![Store86](images/store86.PNG)
+![Store86](store86.PNG)
 
-![Store88](images/store88.PNG)
+![Store88](store88.PNG)
 
 ---
 
@@ -100,11 +102,11 @@ The objective was to analyze customer purchasing behaviour and evaluate the effe
 
 Quantium Data Analytics Virtual Experience Certificate
 
-[📄 View Certificate](certificate/Quantium_certificate.pdf)
+[📄 View Certificate](Quantium_certificate.pdf)
 
 Or preview below:
 
-![Certificate](images/Quantium_certificate.PNG)
+![Certificate](Quantium_certificate.PNG)
 
 ## 👩‍💻 Author
 
