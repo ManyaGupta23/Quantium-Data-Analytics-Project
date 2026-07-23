@@ -1,11 +1,5 @@
 # 📊 Quantium Customer Analytics & Store Trial Analysis
 
-[![Python](https://img.shields.io/badge/Python-Task%201-blue)](https://github.com/ManyaGupta23/quantium-customer-analytics/blob/main/Quantium_Data_Analytics_Virtual_Experience.ipynb)
-
-[![Pandas](https://img.shields.io/badge/Pandas-Task%202-green)](https://github.com/ManyaGupta23/quantium-customer-analytics/blob/main/Quantium_Task2_Store_Trial_Analysis.ipynb)
-
-[![Status](https://img.shields.io/badge/Project-Task%203%20PPT-brightgreen)](https://github.com/ManyaGupta23/quantium-customer-analytics/blob/main/Quantium_Task3_Strategic_Recommendations.pptx)
-
 ## 📌 Project Overview
 
 This project was completed as part of the **Quantium Data Analytics Virtual Experience Program (Forage)**.
